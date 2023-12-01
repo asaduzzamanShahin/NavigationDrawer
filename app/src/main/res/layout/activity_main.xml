@@ -50,7 +50,7 @@
                android:textColorHint="#959494"
                android:textColor="@color/white"
                android:layout_margin="10dp"
-               android:padding="20dp"
+               android:padding="17dp"
                android:drawablePadding="20dp"/>
 
            <EditText
