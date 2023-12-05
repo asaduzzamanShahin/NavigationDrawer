@@ -24,8 +24,9 @@ public class MainActivity extends AppCompatActivity {
             DrawerLayout drawerLayout;
             NavigationView navigationView;
             ActionBarDrawerToggle drawerToggle;
-
-
+          /*  NavigationView navigationView;
+            ActionBarDrawerToggle drawerToggle;
+*/
             @Override
             public boolean onOptionsItemSelected(@NonNull MenuItem item){
                 if (drawerToggle.onOptionsItemSelected(item)){
